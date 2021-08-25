@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 --
-Your text
+subtitle: "learning hurts sometimes"
+
 Use the left arrow to go back!
